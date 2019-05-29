@@ -6,6 +6,7 @@ const navbarEvents = () => {
   for (let i = 0; i < navLinks.length; i += 1) {
     navLinks[i].addEventListener('click', (e) => {
       if (e.target.id === 'navbar-button-logout') {
+        console.error('clicky button');
         firebase.auth().signOut();
       }
     });
