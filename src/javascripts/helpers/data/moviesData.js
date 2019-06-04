@@ -3,7 +3,7 @@ import apiKeys from './apiKeys.json';
 
 const firebaseUrl = apiKeys.firebaseKeys.databaseURL;
 
-const getMovieByUid = () => new Promise((resolve, reject) => {
+const getMovies = () => new Promise((resolve, reject) => {
   axios.get(`${firebaseUrl}/movies.json`)
     .then((results) => {
       const movieResults = results.data;
@@ -17,4 +17,4 @@ const getMovieByUid = () => new Promise((resolve, reject) => {
     .catch(err => reject(err));
 });
 
-export default { getMovieByUid };
+export default { getMovies };

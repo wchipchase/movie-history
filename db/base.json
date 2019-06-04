@@ -1,7 +1,7 @@
 {
-  "movie": "meow",
-  "moviePeopleRole": "meow",
+  "movies": "meow",
+  "moviePeopleRoles": "meow",
   "people": "meow",
-  "role": "meow",
-  "userMovie": "meow"
+  "roles": "meow",
+  "userMovies": "meow"
 }

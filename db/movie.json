@@ -2,70 +2,70 @@
   "movie1":{
     "id": "movie01",
     "title": "Avengers, Age of Ultron",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://cdn-images-1.medium.com/max/1600/1*xvU7rLO4sGBe-3TQxb-Vzw.jpeg"
   },
 
   "movie2":{
     "id": "movie02",
     "title": "Doctor Strange",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/91G8SWKqb9L._RI_SX300_.jpg"
   },
 
   "movie3":{
     "id": "movie03",
     "title": "The Avengers",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://en.wikipedia.org/wiki/File:TheAvengers2012Poster.jpg"
   },
 
   "movie4":{
     "id": "movie04",
     "title": "Iron Man",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5981/5981112_sa.jpg;maxHeight=640;maxWidth=550"
   },
 
   "movie5":{
     "id": "movie05",
     "title": "Guardians of The Galaxy",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwih2IbTv7_iAhXxYt8KHXoDDRwQjhx6BAgBEAM&url=http%3A%2F%2Fgoogle.com%2Fsearch%3Ftbm%3Disch%26q%3DGuardians%2Bof%2Bthe%2BGalaxy&psig=AOvVaw2GPAx9d_WClpoG57lgud_G&ust=1559176613541256"
   },
 
   "movie6":{
     "id": "movie06",
     "title": "Antman and The Wasp",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://www.zoom.co.uk/product/ant_man_and_the_wasp_dvd#"
   },
 
   "movie7":{
     "id": "movie07",
     "title": "Spider-man - Homecoming",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://en.wikipedia.org/wiki/File:Spider-Man_Homecoming_poster.jpg"
   }, 
   
   "movie8":{
     "id": "movie08",
     "title": "Captain Marvel",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1552009962/190307-leon-captain-marvel-tease_vtfgab"
   },
 
   "movie9":{
     "id": "movie09",
     "title": "Thor, The Dark World",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://production-gameflipusercontent.fingershock.com/us-east-1:f8d51a88-511c-406e-93c9-0ee5743f72f0/2a36effb-ac9f-47b0-a71a-26f4157d6a2f/efe62c90-2aee-4cd1-8cce-85bd94ce12f5"
   },
 
   "movie10":{
     "id": "movie10",
     "title": "Captain America, The Winter Soldier",
-    "movie rating": "PG-13",
+    "movieRating": "PG-13",
     "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51V4Fp58HkL.jpg"
   }
 }
